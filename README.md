@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a year 4 Computing Science Student in SFU, interested in mobile application, artificial intelligence, data analytics, LLM, NLR, machine learning, and mobile development.<br>
+I am a year 4 Computing Science Student in SFU, interested in mobile application, artificial intelligence, data analytics, LLM, NLR, and machine learning.<br>
 
 
 ## 🌐 Socials:
